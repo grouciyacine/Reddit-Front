@@ -1,0 +1,97 @@
+.post-container1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    @media (max-width:500px) {
+        width: 97%;
+    }
+    h3{
+        width: 55%;
+        padding: 5px;
+        border-bottom: 1px solid #D7DADC;
+        text-align: start;
+        color: #D7DADC;
+        @media (max-width: 500px){
+            width: 100%;
+            font-size: larger;
+            margin-left:2px;
+        }
+    }
+    .inp{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        width: fit-content;
+        margin: 12px;
+        padding: 5px;
+        background-color: #1A1A1B;
+        border-radius: 10px;
+        @media (max-width:500px) {
+            width: 95%;
+        }
+        .drag{
+            border: 1px solid #343536;
+            height: 100px;
+            width: 95%;
+            cursor: pointer;
+            span{
+                border: 1px solid #D7DADC;
+                padding: 5px;
+                cursor: pointer;
+                border-radius: 12px;
+                margin: 5px;
+            }
+        }
+        .new{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            outline: none;
+            background-color: #1A1A1B;
+            width: 700px;
+            padding: 3px;
+            border-radius: 5px;
+            margin: 12px;
+            border: 1px solid #343536;
+            @media (max-width:500px) {
+                width: 95%;
+            }
+            svg{
+                font-size: x-large;
+                color: #D7DADC;
+                cursor: pointer;
+            }
+            img{
+                margin-left: 12px;
+                border-radius: 360px;
+                width: 40px;
+                height: 40px;
+                
+            }
+            input{
+                flex: 1;
+                color: white;
+                background:#1A1A1B;
+                outline: none;
+                padding: 5px;
+                margin: 1px;
+                border: none;
+                height: 30px;
+            }
+            textarea{
+                background-color: #1A1A1B;
+                border: none;
+                height: 200px;
+                outline: none;
+                color: white;
+            }
+        }
+    }
+}
