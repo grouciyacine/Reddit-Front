@@ -1,6 +1,19 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="960" alt="r1" src="https://github.com/grouciyacine/Reddit-Front/assets/107037694/5999f33b-823d-4391-a351-4b76a57aac9e">
+
+This project
+
+
+<img width="960" alt="r5" src="https://github.com/grouciyacine/Reddit-Front/assets/107037694/d0bd8915-4f92-4775-805d-4413bab02434">
+ was bootstrap
+ 
+ <img width="960" alt="r4" src="https://github.com/grouciyacine/Reddit-Front/assets/107037694/35f643d5-fdd9-4984-b821-80ac48787e6e">
+ped
+
+
+<img width="960" alt="r2" src="https://github.com/grouciyacine/Reddit-Front/assets/107037694/8e699fc7-ee85-4b5e-b068-f036761f1de2">
+ with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
